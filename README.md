@@ -6,7 +6,7 @@ python, JavaScript and sql
 - 🔭 I’m currently working on
   smart goal coach to help achieve goals efficiently and a Machine learning model
   
-- 🌱 I recently built a program to automatically sort files into folders and subfolder, check it out [here](https://github.com/wheel-s/learning-automation).
+- 🌱 I recently built a program to automatically sort files into folders and subfolder, check it out [here](https://github.com/wheel-s/auto-sort).
   
 - 👯 I’m looking to collaborate on projects
   
