@@ -1,13 +1,18 @@
 ## Hi there 👋
 
 My name is George and im a trained software developer interested in 
-JavaScript and python 
+python, JavaScript and sql
 
 - 🔭 I’m currently working on
   smart goal coach to help achieve goals efficiently and a Machine learning model
   
-- 🌱 I recently built a to automatically sort files into folders and subfolder, check it out here.
+- 🌱 I recently built a program to automatically sort files into folders and subfolder, check it out [here](https://github.com/learning-automation).
+  
+- 👯 I’m looking to collaborate on projects
+  
+- 📫 How to reach: toshirou2002@gmail.com
 
+  
  
 
 <!--
