@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-My name is George and im a trained software developer interested in 
-python, JavaScript and sql
+I'm [George](https://commerce-64hk.vercel.app) a software developer interested in 
+python, javascript, and SQL
 
-- 🔭 I’m currently working on
-  smart goal coach to help achieve goals efficiently and a Machine learning model
+
+Fun Fact: i play the bass🎸
+
+
   
-- 🌱 I recently built a program to automatically sort files into folders and subfolder, check it out [here](https://github.com/wheel-s/auto-sort).
-  
-- 👯 I’m looking to collaborate on projects
-  
-- 📫 How to reach: toshirou2002@gmail.com
 
   
  
