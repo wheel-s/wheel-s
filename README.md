@@ -4,7 +4,7 @@ I'm [George](https://commerce-64hk.vercel.app) a software developer interested i
 python, javascript, and SQL
 
 
-Fun Fact: i play the bass🎸
+Fun Fact: I play the bass🎸
 
 
   
