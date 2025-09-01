@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [George](portfolio-lncp.vercel.app) a software developer interested in 
+I'm [George](https://portfolio-lncp.vercel.app) a software developer interested in 
 python, javascript, and SQL
 
 
