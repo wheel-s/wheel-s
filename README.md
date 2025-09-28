@@ -1,10 +1,15 @@
-## Hi there 👋
+# Blue-Samurai
 
-I'm [George](https://portfolio-lncp.vercel.app) a software developer interested in 
-python, javascript, and SQL
+I'm a software developer who enjoys building backend systems,
+writing code, and learning new technologies.
 
+## Interests
+- Backend engineering(python, C/C++, Node.js)
+- Web scraping & data analysis
+- System programming (low-level experiments)
 
-Fun Fact: I play the bass🎸
+📚 Currently learning **Go**
+🎸Fun Fact: I play the bass
 
 
   
