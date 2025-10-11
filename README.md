@@ -8,8 +8,9 @@ writing code, and learning new technologies.
 - Web scraping & data analysis
 - System programming (low-level experiments)
 
-📚 Currently learning **Go**
-🎸Fun Fact: I play the bass
+
+-📚 Currently learning **Go**
+-🎸Fun Fact: I play the bass
 
 
   
