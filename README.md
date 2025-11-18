@@ -4,7 +4,7 @@ I'm a software developer who enjoys building backend systems,
 writing code, and learning new technologies.
 
 ## Interests
-- Backend engineering(python, C/C++, Node.js)
+- Backend engineering(python, C/C++, TypeScript)
 - Web scraping & data analysis
 - System programming (low-level experiments)
 
