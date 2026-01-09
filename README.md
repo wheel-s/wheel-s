@@ -1,4 +1,4 @@
-# George 
+# Wheel-s
 
 I’m a software developer who enjoys building software and learning how systems behave in practice.  
 Most of my learning comes from building small projects and refining them over time.
