@@ -1,17 +1,31 @@
-# Blue-Samurai
+# George 
 
-I'm a software developer who enjoys building backend systems,
-writing code, and learning new technologies.
+I’m a software developer who enjoys building software and learning how systems behave in practice.  
+Most of my learning comes from building small projects and refining them over time.
+
+## What I work with
+- **C / C++**
+- **Go**
+- **Python**
+- **TypeScript / JavaScript**
 
 ## Interests
-- Backend engineering(python, C/C++, TypeScript)
-- Web scraping & data analysis
-- System programming (low-level experiments)
+- Building software 
+- Understanding how systems behave in practice
+- Backend engineering and infrastructure
+- Improving code through iteration and refactoring
+
+## Currently
+- Building small projects to strengthen fundamentals
+- Learning more about backend and systems concepts
+- Writing code regularly and improving through iteration
 
 
-📚 Currently learning **Go**
+- ⚡️Fun fact: I play the bass🎸
+  
 
-🎸Fun Fact: I play the bass
+
+---
 
 
   
