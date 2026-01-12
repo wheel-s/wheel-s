@@ -3,11 +3,12 @@
 I’m a software developer who enjoys building software and learning how systems behave in practice.  
 Most of my learning comes from building small projects and refining them over time.
 
-## What I work with
+## Programming Languages I Know
 - **C / C++**
 - **Go**
 - **Python**
 - **TypeScript / JavaScript**
+- **Java**
 
 ## Interests
 - Building software 
