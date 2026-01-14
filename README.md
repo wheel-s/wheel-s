@@ -3,24 +3,24 @@
 I’m a software developer who enjoys building software and learning how systems behave in practice.  
 Most of my learning comes from building small projects and refining them over time.
 
-## Programming Languages I Know
-- **C / C++**
-- **Go**
-- **Python**
-- **TypeScript / JavaScript**
-- **Java**
+## Programming languages I know
+- C / C++
+- Go
+- Python
+- TypeScript / JavaScript
+- Java
 
 ## Interests
 - Building software 
 - Understanding how systems behave in practice
 - Backend engineering and infrastructure
 - Improving code through iteration and refactoring
-
+<!--
 ## Currently
 - Building small projects to strengthen fundamentals
 - Learning more about backend and systems concepts
 - Writing code regularly and improving through iteration
-
+-->
 
 - ⚡️Fun fact: I play the bass🎸
   
