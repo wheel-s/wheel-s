@@ -7,7 +7,7 @@ Lately I have been working on distributed systems using Go and Kubernetes.
 ⚡ Fun fact: I play the bass guitar 
 
 Contact Information: 
-Email:toshirou2002@gmail.com
+Email: toshirou2002@gmail.com
 
 <!--
 **wheel-s/wheel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
