@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a software developer looking to make my workflow  
-more awesome, build performant projects, understand memory and craft really cool software.
+I'm a software developer looking to make my workflow  more awesome, build performant projects, understand memory and craft really cool software.
+
 Lately I have been working on distributed systems using Go and Kubernetes.
 
 ⚡ Fun fact: I play the bass guitar 
