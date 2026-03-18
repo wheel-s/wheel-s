@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer intrested in imporving my workflow, understand memory, and build performant projects
+I'm a software developer
 
 
 ⚡ Fun fact: I play the bass guitar 
