@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer looking to make my workflow  more awesome, build performant projects, and interested in anything software.
+I'm a software developer intrested in imporving my workflow, understand memory, and build performant projects
 
 Lately I have been working on distributed systems using Go and Kubernetes.
 
