@@ -2,7 +2,6 @@
 
 I'm a software developer intrested in imporving my workflow, understand memory, and build performant projects
 
-Lately I have been working on distributed systems using Go and Kubernetes.
 
 ⚡ Fun fact: I play the bass guitar 
 
